@@ -1,6 +1,6 @@
 # Go 学习社区 BeingGopher
 
-[English version](.github/docs/README(EN).md)
+[English version](.github/docs/README（EN）.md)
 ## Hi there 👋
 
 🌟 **关于我们**
