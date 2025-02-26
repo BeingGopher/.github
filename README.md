@@ -1,4 +1,4 @@
-# Go 学习社区 README
+# Go 学习社区 BeingGopher
 
 ## Hi there 👋
 
